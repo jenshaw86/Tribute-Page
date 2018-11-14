@@ -1,0 +1,98 @@
+#main {
+	background-color: #EF87FF;
+	font-family: "Montserrat";
+}
+
+#nav	{
+	height: 30px;
+	width: 100%;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+	background-color:#A885F7;
+	
+}
+
+.container	{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h1	{
+	font-weight: bold;
+}
+#img-div	{
+	display: block;
+	margin: 10px 10% 10px 10%;
+	padding: 30px 15px 10px 15px;
+	background-color: #FFFFFF;
+
+}
+#image	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 80%;
+	max-width: 800px;
+
+}
+
+#img-caption	{
+	padding: 5px;
+	text-align: center;
+}
+
+#tribute-info	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 80%;
+	padding: 5%;
+	text-align: left;
+	line-height: 2;
+	background-color: #A885F7;
+	color: #color: #0319FB;
+}
+
+#tribute-info h2	{
+	color: #0319FB;	
+	letter-spacing: .1em;
+}
+
+.starting-letter::first-letter 	{
+	font-size: 2em;
+}
+
+span {
+	font-style: italic;
+}
+.timeline	{
+	line-height: 2.5;
+	display: block;
+	margin-top: 50px;
+}
+
+ul	{
+	width: 80%;
+}
+
+.quote	{
+	display: block;
+	text-align: center;
+	margin: 30px;
+	font-style: italic;
+}
+.see-more	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 30px;
+	width: 80%;
+	font-weight: bold;
+
+}
